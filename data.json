@@ -1,0 +1,34 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Complete project documentation",
+        "deadline": "2025-02-20",
+        "status": "pending"
+      },
+      {
+        "id": 2,
+        "description": "Review pull requests for frontend changes",
+        "deadline": "2025-02-15",
+        "status": "completed"
+      },
+      {
+        "id": 3,
+        "description": "Schedule team meeting for sprint planning",
+        "deadline": "2025-02-14",
+        "status": "pending"
+      },
+      {
+        "id": 4,
+        "description": "Update database schema documentation",
+        "deadline": "2025-02-28",
+        "status": "pending"
+      },
+      {
+        "id": 5,
+        "description": "Fix login page bug",
+        "deadline": "2025-02-13",
+        "status": "completed"
+      }
+    ]
+  }
